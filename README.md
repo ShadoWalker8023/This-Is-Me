@@ -1,3 +1,6 @@
 # This-Is-Me
+
 Hello you!
-On the Way to become a developer
+Windows try
+This-Is-Me
+Git Checkout
